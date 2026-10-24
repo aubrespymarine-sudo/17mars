@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>17mars</title>
+<style>
+*{box-sizing:border-box}
+body{
+  margin:0;
+  min-height:100vh;
+  background:#faf9f7;
+  color:#292724;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  display:flex;
+  justify-content:center;
+  padding:34px 18px
+}
+main{width:100%;max-width:430px;text-align:center}
+.heart{font-size:25px;margin:4px 0 30px}
+nav{display:grid;gap:11px}
+a{
+  display:block;
+  text-decoration:none;
+  color:#292724;
+  background:#fff;
+  border:1px solid #e4e1db;
+  border-radius:12px;
+  padding:16px 18px;
+  font-size:15px
+}
+</style>
+</head>
+<body>
+<main>
+<div class="heart">♡</div>
+<nav>
+<a href="https://www.instagram.com/reel/Des3V-SptnZ/?srtk=NGNneHIxcGVzdGdz" target="_blank" rel="noopener">01</a>
+<a href="https://youtu.be/7maJOI3QMu0?is=E-yBjBp69ejTM_u_" target="_blank" rel="noopener">02</a>
+<a href="https://www.instagram.com/reel/Dbv5Dn9ocUn/?srtk=MjE2ZHltOXVxYWtk" target="_blank" rel="noopener">03</a>
+<a href="https://youtu.be/UKsXgygMDmo?is=4lkHWUyuRSLGGh3N" target="_blank" rel="noopener">04</a>
+<a href="https://youtu.be/8D37wSaNHd4?is=Mh_s4Uma65L6ubsy" target="_blank" rel="noopener">05</a>
+</nav>
+</main>
+</body>
+</html>
